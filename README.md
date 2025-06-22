@@ -16,10 +16,8 @@ Come and say hi 👋
 ## My main project
 
 [![The Polyclinic](https://github-readme-stats.vercel.app/api/pin/?username=imankitkalirawana&repo=the-polyclinic&theme=dark)](https://github.com/imankitkalirawana/the-polyclinic)
-[![Personal Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=imankitkalirawana&repo=divinelydeveloper-portfolio&theme=dark)](https://github.com/imankitkalirawana/divinelydeveloper-portfolio )
-[![Invoice Generator](https://github-readme-stats.vercel.app/api/pin/?username=chhavipaliwal&repo=invoice-generator&theme=dark)](https://github.com/chhavipaliwal/invoice-generator )
-[![Devocode Store](https://github-readme-stats.vercel.app/api/pin/?username=imankitkalirawana&repo=divinely-store&theme=dark)](https://github.com/imankitkalirawana/divinely-store )
-
+[![Personal Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=chhavipaliwal&repo=pixelpaw&theme=dark)](https://github.com/chhavipaliwal/pixelpaw )
+[![Invoice Generator](https://github-readme-stats.vercel.app/api/pin/?username=chhavipaliwal&repo=invoice-generator&theme=dark)](https://github.com/chhavipaliwal/invoice-generator)
 
 ## Tech's
 
